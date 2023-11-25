@@ -390,8 +390,8 @@ pre{
 }
 .page-header{
     margin-top: 10px;
-    border-bottom: 2px solid #f49e22;
-    color: #f49e22;
+    border-bottom: 2px solid red!important;
+    color: red!important;
     width: 100%;
 }
 .job-title {
