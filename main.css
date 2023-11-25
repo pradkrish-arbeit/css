@@ -290,6 +290,8 @@ pre{
     text-align: right;
     margin-bottom: 4px;
     color: #58677c!important;
+    font-size:1.055rem!important;
+    font-weight:bold!important;
 }
 .tech-skills .page-header {
     margin-bottom: 12px;
@@ -397,9 +399,10 @@ pre{
     font-size:1.35rem!important;
 }
 .job-title {
-    font-size: 1.125rem;
+    font-size: 1.055rem!important;
     color: #58677c;
     margin-bottom: 4px;
+    font-weight:bold!important;
 }
 .footer {
     background: #333;
