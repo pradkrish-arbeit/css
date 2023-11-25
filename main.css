@@ -1583,4 +1583,12 @@ li.L1,li.L3,li.L5,li.L7,li.L9 {
     padding: 0;
     list-style: none;
 }
+.badge {
+    padding: 5px 10px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    margin: 5px 2px;
+    font-weight: 500;
+    color: #58677c!important;
+}
 
