@@ -1595,4 +1595,15 @@ li.L1,li.L3,li.L5,li.L7,li.L9 {
     font-weight: 500;
     color: #58677c!important;
 }
+.project-description{
+    margin-top: 11px;
+    margin-bottom: 11px;
+    font-size: 1.025rem;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    word-wrap: break-word;
+    margin-left: 0!important;
+    font-style: italic;
+    color: #58677c;
+}
 
