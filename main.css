@@ -1606,3 +1606,7 @@ li.L1,li.L3,li.L5,li.L7,li.L9 {
     font-style: italic;
     color: #58677c;
 }
+@media (min-width: 768px)
+.container {
+    max-width: 100%!important;
+}
