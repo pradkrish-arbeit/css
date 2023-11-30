@@ -1606,6 +1606,17 @@ li.L1,li.L3,li.L5,li.L7,li.L9 {
     font-style: italic;
     color: #58677c;
 }
+
+element.style {
+}
+.documentation-container {
+    padding-top: 0px;
+}
+@media (min-width: 1200px){
+.container {
+    max-width: 1300px;
+}
+}
 @media print{
 .container {
     max-width: 100%!important;
